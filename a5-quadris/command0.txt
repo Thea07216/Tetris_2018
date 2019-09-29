@@ -1,0 +1,6 @@
+righ 10rig counter counterc drop 
+3rig drop hint 3clock hint 3counter drop
+2counter clock right drop
+clock 3rig left down down drop 10righ drop
+clock 7righ left 20down drop
+hint 
